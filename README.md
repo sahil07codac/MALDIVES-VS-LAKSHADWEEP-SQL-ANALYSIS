@@ -6,8 +6,11 @@
 # TABLES
 
 Destination
+
 TouristAttractions
+
 TouristArrivals
+
 IndianTourists
 
 # Inslights:
